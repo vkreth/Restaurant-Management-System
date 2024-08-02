@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+
+
+.hero-caption {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 4.5rem;
+    font-weight: 700;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    margin-right: 5rem;
+}
+
+.hero-description {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-right: 5rem;
+}
+
+.category-title{
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 1.25rem;
+    margin-top: 0.75rem;
+}

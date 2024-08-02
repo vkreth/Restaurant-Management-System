@@ -1,0 +1,9 @@
+.category {
+    cursor: pointer;
+}
+
+.itemCard {
+    cursor: pointer;
+    right:10px;
+    bottom: 135px;
+}

@@ -1,0 +1,30 @@
+.orderListHeading {
+    height: 45px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 10px 0;
+}
+
+.orderListHeading div {
+    display: inline-block;
+    width: 15%;
+    margin-left: 10px;
+}
+
+.orderListItem {
+    min-height: 45px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 10px 0;
+    margin-top: 10px;
+}
+
+.orderListItem:hover {
+    background-color: #f0f0f0;
+}
+
+.orderListItem div {
+    display: inline-block;
+    width: 15%;
+    margin-left: 10px;
+}
