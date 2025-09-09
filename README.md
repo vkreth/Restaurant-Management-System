@@ -64,5 +64,45 @@ in the backend code.
 ## 8. Replace Stripe Secret Key
 - Open the backend code and locate the file where the Stripe secret key is stored (usually a
 configuration file or environment variable).
+
+# Restaurant Management System (MERN)
+
+This project is a **Restaurant Management System** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+It allows restaurants to manage their operations efficiently with features like order management, payments, and database connectivity.
+
+---
+
+## Features
+- Full-stack MERN application
+- Frontend built with React and Vite
+- Backend powered by Node.js and Express.js
+- MongoDB integration for data storage
+- Stripe integration for payments
+
+---
+
+## Tech Stack
+- **Frontend:** React, Vite, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Payments:** Stripe  
+
+---
+
+## Installation and Setup
+
+Follow these steps to run the application locally:
+
+### 1. Prerequisites
+- [Visual Studio Code](https://code.visualstudio.com/)  
+- [Node.js and npm](https://nodejs.org/en/)  
+- [MongoDB Community Edition](https://www.mongodb.com/try/download/community)  
+- [Stripe Account](https://stripe.com/)  
+
+Verify Node.js installation:
+```bash
+node -v
+npm -v
+
 - Replace the placeholder value with your actual Stripe secret key.
 By following these steps, we have a MERN stack(restaurant-app) application running locally.
